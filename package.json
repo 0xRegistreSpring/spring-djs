@@ -1,0 +1,23 @@
+{
+  "name": "spring-djs",
+  "version": "1.0.0",
+  "description": "<div align=\"center\"><img style=\"width: 60%\" src=\"https://user-images.githubusercontent.com/71836991/151350002-7a6885d1-b340-4b01-860a-0c0e9dc1d026.png\"></div>",
+  "main": "springdjs.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xRegistreSpring/spring-djs.git"
+  },
+  "keywords": [
+    "\"keywords\":",
+    "["
+  ],
+  "author": "\"discord\",",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xRegistreSpring/spring-djs/issues"
+  },
+  "homepage": "https://github.com/0xRegistreSpring/spring-djs#readme"
+}
